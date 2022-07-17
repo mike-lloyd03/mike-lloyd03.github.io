@@ -1,0 +1,26 @@
+baseURL = 'https://mike-lloyd03.github.io'
+# baseURL = 'http://localhost:8080'
+languageCode = 'en-us'
+title = 'MikeBlog'
+theme = "m10c"
+sectionPagesMenu = "main"
+
+[params]
+  author = "Mike Lloyd"
+  description = "I'm an engineer who likes Linux, vim, Rust, guns, and coffee."
+[params.style]
+  darkestColor = "#262626"
+  darkColor = "#303030"
+  lightColor = "#b2b2b2"
+  lightestColor = "#d75f5f"
+  primaryColor = "#5fafff"
+
+[[params.social]]
+  icon = "github"
+  name = "Github"
+  url = "https://github.com/mike-lloyd03/"
+
+[[params.social]]
+  icon = "linkedin"
+  name = "LinkedIn"
+  url = "https://www.linkedin.com/in/mikelloyd03/"
