@@ -8,6 +8,7 @@ sectionPagesMenu = "main"
 [params]
   author = "Mike Lloyd"
   description = "I'm an engineer who likes Linux, vim, Rust, guns, and coffee."
+  subtitle = "Stuff and things"
 [params.style]
   darkestColor = "#262626"
   darkColor = "#303030"
