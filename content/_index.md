@@ -5,6 +5,8 @@ I am an application security engineer with a lot of varied interests. Previous t
 ## Current Interests
 ### Tech Stuff
 - Rust Programming Language
+- Svelte/Sveltekit
+- Dart/Flutter
 - Linux
 - REST API development
 - Self-hosting/De-Google/De-Apple/Privacy
@@ -20,8 +22,8 @@ I am an application security engineer with a lot of varied interests. Previous t
 - Coffee
 
 ## Skills
-- Rust, Go, Python, Javascript
-    - I regularly work with Go and Python at work and I am actively studying Rust on my own time.
+- Rust, Go, Python, Javascript/Typescript, Dart
+    - I regularly work with Go and Python at work and I am actively developing side-projects in Rust on my own time.
 - Docker, Kubernetes
     - I have 17 different containers running on my home server managing all my self-hosted services
     - I use k8s at work for deploying services and running regularly scheduled jobs for security automation purposes.
@@ -35,4 +37,4 @@ I am an application security engineer with a lot of varied interests. Previous t
     - I'm a complete `vim` and `tmux` fanboi.
 
 ## Personal
-I am a husband to a wonderful woman and three young children plus one more on the way. I like wrestling with my boys and dancing with my girls. Life is crazy and uncertain but family is where I can escape to find joy and love.
+I am a husband to a wonderful woman and four young children. I like wrestling with my boys and dancing with my girls. Life is crazy and uncertain but family is where I can always find my anchor.
